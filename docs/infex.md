@@ -86,4 +86,4 @@
 
  
 
- [リンクの文字](https://www.google.co.jp/) 
+ [クイズ(https://powami.herokuapp.com/nqa3) 
